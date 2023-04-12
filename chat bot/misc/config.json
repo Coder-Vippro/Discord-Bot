@@ -1,0 +1,14 @@
+{
+    "bot_token": "",
+    "status": {
+        "state": "online",
+        "type": "PLAYING",
+        "name": "AI Chat Bot "
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get?bid=171038&key=DmqzxiEJ5OYLTDpJ&uid=[uid]&msg=[msg]",
+        "brainID": "171038",
+        "key": "DmqzxiEJ5OYLTDpJ",
+        "channel": "1048767912493731910"
+    }
+}

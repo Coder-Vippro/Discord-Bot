@@ -1,0 +1,12 @@
+{
+    "name": "Music Bot 3",
+    "prefix": "c!",
+    "playing": "c!help | music",
+    "color": "#FFFFFF",
+    "defaultVolume": 50,
+    "maxVolume": 100,
+    "autoLeave": true,
+    "autoLeaveCooldown": 5000,
+    "displayVoiceState": true,
+    "port": 33333
+}
